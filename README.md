@@ -56,7 +56,7 @@ python -m venv venv
 venv\Scripts\activate
 
 # Instale as dependências:
-pip install -r requirements.txt
+pip install -r back_end\requirements.txt
 
 # Execute o servidor Flask:
 python app.py
