@@ -37,8 +37,8 @@ MVP_Emprestimo/
 │ ├── test_modelo.py
 │ ├── requirements.txt
 │ └── modelo/
-│ ├── modelo_treinado.pkl
-│ └── dados_teste.csv
+│  ├── modelo_treinado.pkl
+│  └── dados_teste.csv
 └── front_end/
 ├── index.html
 ├── script.js
