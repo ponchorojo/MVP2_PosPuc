@@ -59,7 +59,7 @@ venv\Scripts\activate
 pip install -r back_end\requirements.txt
 
 # Execute o servidor Flask:
-python app.py
+python back_end\app.py
 ```
 
 ### 2. Front-End
@@ -70,8 +70,6 @@ OBS: O back-end deve estar rodando para que seja possível criar registros no fr
 ```bash
 cd ../front
 start index.html  # (Windows)
-# ou
-open index.html   # (macOS)
 ```
 
 Também pode abrir o arquivo manualmente clicando duas vezes em `index.html`.
