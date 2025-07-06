@@ -45,7 +45,7 @@ MVP_Emprestimo/
  └── style.css
 ```
 
-##Como Rodar o Projeto:
+## Como Rodar o Projeto:
 
 ### 1. Back-End (Flask)
 ```bash
