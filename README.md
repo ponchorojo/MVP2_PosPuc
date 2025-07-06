@@ -30,6 +30,7 @@ Encontra-se no Git com o nome de Arquivo "notebook_emprestimo_mvp.ipynb", é pos
 ---
 
 ## Estrutura do Projeto
+```
 MVP_Emprestimo/
 ├── back_end/
 │ ├── app.py
@@ -42,7 +43,7 @@ MVP_Emprestimo/
 ├── index.html
 ├── script.js
 └── style.css
-
+```
 
 ##Como Rodar o Projeto:
 
