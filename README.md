@@ -1,6 +1,7 @@
 # # MVP - Simulador de Aprovação de Empréstimo com Machine Learning
 
 Sprint: Qualidade de Software, Segurança e Sistemas Inteligentes
+
 Aluno: Victor Magno Thuler Pereira
 
 
