@@ -63,8 +63,6 @@ python app.py
 ```
 
 ### 2. Front-End
-### 1. Rodar o Front-End
-
 Não é necessário servidor. Basta abrir o arquivo `index.html` no navegador:
 
 OBS: O back-end deve estar rodando para que seja possível criar registros no front-end.
