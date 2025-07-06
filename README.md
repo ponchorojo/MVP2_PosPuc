@@ -40,9 +40,9 @@ MVP_Emprestimo/
 │  ├── modelo_treinado.pkl
 │  └── dados_teste.csv
 └── front_end/
-├── index.html
-├── script.js
-└── style.css
+ ├── index.html
+ ├── script.js
+ └── style.css
 ```
 
 ##Como Rodar o Projeto:
