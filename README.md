@@ -25,7 +25,7 @@ O modelo foi treinado no Google Colab com um dataset público de crédito, segui
 
 
 **Notebook Colab:**  
-Encontra-se no Git com o nome de Arquivo "notebook_emprestimo_mvp.ipynb", é possível também acessar diretamente pelo Colab por [aqui]([https://colab.research.google.com/drive/1jaE7gQbi_1cPV4-EjzvdEJK5SrS6eNhM?usp=sharing](https://colab.research.google.com/drive/1hqkBqEhNJEhgsjA68--mg4wBKSfP4e9W?usp=sharing)).
+Encontra-se no Git com o nome de arquivo "notebook_emprestimo_mvp.ipynb", é possível também acessar diretamente pelo Colab por [aqui](https://colab.research.google.com/drive/1hqkBqEhNJEhgsjA68--mg4wBKSfP4e9W?usp=sharing).
 
 ---
 
