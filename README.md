@@ -49,17 +49,16 @@ MVP_Emprestimo/
 
 ### 1. Back-End (Flask)
 ```bash
-cd back_end
 python -m venv venv
 # Ative o ambiente virtual:
 # Windows:
 venv\Scripts\activate
 
 # Instale as dependências:
-pip install -r requirements.txt
+pip install -r back_end\requirements.txt
 
 # Execute o servidor Flask:
-python app.py
+python back_end\app.py
 ```
 
 ### 2. Front-End
