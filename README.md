@@ -75,6 +75,6 @@ Também pode abrir o arquivo manualmente clicando duas vezes em `index.html`.
 
 ### 3. Teste Automatizado (PyTest)
 ```bash
-pytest back_end\teste_modelo.py
+pytest -s back_end\teste_modelo.py
 ```
 
